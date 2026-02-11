@@ -1,3 +1,3 @@
 class User: Account{
-    //add additional vars past account, dont inclue accounts vars
+    //add additional vars past account, don't include accounts vars
 }
