@@ -6,6 +6,10 @@ class repBadges{
     var badgeType: String //maybe not string
 
     init(){
-        //empty for now
+        badgeLevel = self.badgeLevel
+        badgeName = self.badgeName
+        badgeDescription = self.badgeDescription
+        badgeIcon = self.badgeIcon
+        badgeType = self.badgeType
     }
 }
